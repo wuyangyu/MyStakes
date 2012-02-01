@@ -33,6 +33,7 @@ MyStakes是一个团队协作平台网站,利用MyStakes:
 * [dpriest](https://github.com/dpriest)
 
 ##我们也需要
+* 美工人员
 
 * 前端开发人员
 
